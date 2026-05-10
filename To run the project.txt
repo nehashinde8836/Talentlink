@@ -1,0 +1,19 @@
+To run the project:
+
+Backend (Django + DRF)
+
+Install dependencies: pip install -r requirements.txt
+
+Run migrations: python manage.py migrate
+
+Start server: python manage.py runserver
+
+Frontend (React)
+
+Navigate to frontend folder.
+
+Install packages: npm install
+
+Start app: npm start
+
+This will launch the backend API on http://127.0.0.1:8000/ and the frontend dashboard on http://localhost:3000/.
